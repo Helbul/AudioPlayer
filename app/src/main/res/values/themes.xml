@@ -6,4 +6,8 @@
     </style>
 
     <style name="Theme.AudioPlayer" parent="Base.Theme.AudioPlayer" />
+
+    <style name="MyImageButtonStyle" parent="Widget.AppCompat.ImageButton">
+        <item name="android:backgroundTint">@color/button</item>
+    </style>
 </resources>
